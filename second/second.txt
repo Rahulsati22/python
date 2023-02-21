@@ -1,0 +1,6 @@
+=>projects that you can make using python
+1) jarvish virtual assistant
+2) love calculator
+3) face recognition
+4) flappy bird game
+5) snake game 
