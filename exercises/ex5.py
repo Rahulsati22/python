@@ -31,7 +31,8 @@ while (True):
         continue
     if (playerValue == "Scissor" and computerValue == "Rock"):
         computerScore += 1
-
+    
+    print(f"PlayerScore : {playerScore} and ComputerScore : {computerScore}")
     if (playerScore == 5):
         print("Player has won the match")
         break;
