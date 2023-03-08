@@ -6,4 +6,4 @@ while(True):
     notification.message = "Take a break, drink water and chill"
     notification.icon=  "D:\python\projects\Project3\g.avif"
     notification.send()
-    time.sleep(3600)
+    time.sleep(3000)
