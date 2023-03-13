@@ -1,0 +1,10 @@
+import time
+t = time.localtime()
+formatedTime = time.strftime("%Y-%m-%d %H-%M-%S", t)
+print(time.strftime("The year is %Y", t))
+print(time.strftime("The month is %m", t))
+print(time.strftime("The day is %d", t))
+print(time.strftime("The hour is %H", t))
+print(time.strftime("The minute is %M", t))
+print(time.strftime("The second is %S", t))
+print(formatedTime)
